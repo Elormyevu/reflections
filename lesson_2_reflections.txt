@@ -7,3 +7,28 @@ The staging area is the platform from which commits are made.
 A snapshot of all files in the staging area is made when one commits; however, only 
 files in the repository that have been uploaded to the staging area are committed.
 The working directory merely shows files that have been committed.
+
+**How can you use the staging area to make sure you have one commit per logical change?**
+You could just stage one file per commit
+
+**What are some situations when branches would be helpful in keeping your history organized? How would branches help?**
+Branches will really help me take risks with my code by exploring new paths and features I can append to my code
+
+**How do the diagrams help you visualize the branch structure?**
+They help me keep track of the different branches in my repository
+
+**What is the result of merging two branches together?
+ Why do we represent it in the diagram the way we do?**
+It combines different files together. Additions are included in merged documents,
+and deletions are not included in the merged documents. Representing merged
+documents as a confluence of two branches provides a visual analogy of the
+process.
+
+**What are the pros and cons of Git’s automatic 
+merging vs. always doing merges manually?**
+Automatic merging relieves programmers of the hassle of having to 
+painstakingly implement changes in another branch to the master branch.
+However, during automatic merging problems can arise due to the nature 
+of the branches to be merged. This usually requires intervention from 
+the programmer in order to resolve merge conflicts. So in a sense, Git's
+automatic merging feature is not really 'automatic'.
