@@ -1,0 +1,7 @@
+**When would you want to use a remote repository rather than keeping all your work local?**
+This feature will be indispensable for people working on multiple computers. Using Github, they will be able to access all their
+commits at one location regardless of the computer they use.
+
+**Why might you want to always pull changes manually
+rather than having Git automatically stay up-to-date with your remote repository?**
+You might want to work on a version of your code on Github without sharing it with your computer on git.
