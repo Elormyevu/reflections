@@ -14,3 +14,6 @@ I dunno
 
 **How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?**
 Nothing would be easier; Everything would be much harder - working with others to edit code, merging edited versions, etc. 
+***
+**When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?***
+When experimenting with new features while not wanting to run the risk of destroying my code. Making changes directly in master is quicker, but is not the recommended approach when collaborating with others. Instead, one should make changes in a separate branch and merge that branch into master.
