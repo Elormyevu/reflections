@@ -11,3 +11,6 @@ Can't answer at the moment; my brain is not really working right now. Extremely 
 
 **What is the benefit of having a copy of the last known state of the remote stored locally?**
 I dunno
+
+**How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?**
+Nothing would be easier; Everything would be much harder - working with others to edit code, merging edited versions, etc. 
