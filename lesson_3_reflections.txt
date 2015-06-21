@@ -8,3 +8,6 @@ You might want to work on a version of your code on Github without sharing it wi
 
 **Describe the differences between forks, clones, and branches. When would you use one instead of another?**
 Can't answer at the moment; my brain is not really working right now. Extremely sleep deprived and thick brain fog.
+
+**What is the benefit of having a copy of the last known state of the remote stored locally?**
+I dunno
